@@ -88,3 +88,9 @@ To avoid incurring further costs:
 You’ve successfully completed Lab08 by exploring the structure and analysis capabilities of a data warehouse in Azure Synapse. Great job!
 
 
+## screenshots
+
+![lab8](https://github.com/user-attachments/assets/0c1ea281-6ec3-49cf-a670-641c4e617702)
+![lab82](https://github.com/user-attachments/assets/f8052b89-1e91-401d-9b55-dc1635dc5632)
+![lab83](https://github.com/user-attachments/assets/be6107ec-15ac-41eb-b2bd-702bebe79819)
+![lab84](https://github.com/user-attachments/assets/db4685a1-d4cb-4f84-9a2f-1f52a2cf68de)
